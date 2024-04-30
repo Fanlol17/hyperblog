@@ -7,3 +7,6 @@ Mañana nos enfocaremos en su vida laboral
 Me encuentro practicando.
 
 Cambios en la rama master.
+
+Practicando a usar ramas en git.
+
