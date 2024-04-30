@@ -5,3 +5,5 @@ Juan Sebastián tiene 21 años y nacio en Colombia, aprendiendo en Platzi
 Mañana nos enfocaremos en su vida laboral
 
 Me encuentro practicando.
+
+Practicando a usar ramas en git.
